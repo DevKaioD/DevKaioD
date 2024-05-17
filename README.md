@@ -20,4 +20,4 @@ Tenho 19 anos e sou dev a aproximadamente 3 anos, sou formado no curso de inform
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiDSan&hide_progress=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevKaioD&hide_progress=true&theme=dark)
