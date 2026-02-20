@@ -7,7 +7,7 @@ Tenho 19 anos e sou dev a aproximadamente 3 anos, sou formado no curso de inform
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaio-davidson-a95607242)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaio.dvsnz/)
 
-[![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKaioD)](https://github.com/DevKaioD/github-readme-stats)
+![Kaio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKaioD&show_icons=true&theme=dark)
 
 ## Algumas tecnologias que eu utilizo👨‍💻
 
